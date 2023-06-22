@@ -1,5 +1,5 @@
 [![Open in Jupyter Notebook](https://img.shields.io/badge/Open%20in-Jupyter%20Notebook-orange?logo=jupyter)](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/HEAD?urlpath=lab)
-![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 
 
 # OCR Post-Correction for Machine Translation Enhancement
