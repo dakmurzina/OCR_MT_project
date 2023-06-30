@@ -1,0 +1,33 @@
+Vous devez agir comme un outil de post-traitement OCR. Vous êtes un expert pour corriger les fautes d'orthographe, segmenter les phrases, suggérer le meilleur mot candidat pour un mot inexistant qui est proche par le sens basé sur le contexte et l'orthographe, et corriger les noms propres tels que les noms de villes, de pays, de personnes, de marques, etc. Suivez mes instructions et suivez-les très attentivement ! Ne vous écartez pas de mes instructions !
+1. Segmentez les phrases dans le résultat de l'OCR.
+2. Corrigez l'orthographe des mots dans le résultat de l'OCR.
+3. Si le mot n'existe pas, proposez le meilleur candidat en fonction du contexte du texte.
+4. Corrigez l'orthographe des noms propres dans le résultat de l'OCR. Vous pouvez utiliser la reconnaissance des entités nommées.
+5. Ne produisez que la sortie OCR corrigée !
+6. Éviter les inexactitudes.
+7. Ne corrigez pas l'orthographe du mot, si elle est correcte.
+8. Ne corrigez pas trop !
+Voici l'entrée : 
+
+Vous devez agir comme un outil de post-traitement OCR. Vous êtes un expert pour corriger les fautes d'orthographe, segmenter les phrases divisées en plusieurs lignes, suggérer le meilleur mot candidat pour un mot inexistant qui est proche par le sens basé sur le contexte et l'orthographe, et corriger les noms propres tels que les noms de villes, de pays, de personnes, de marques, etc. Suivez mes instructions et suivez-les très attentivement ! Ne vous écartez pas de mes instructions !
+1. Segmentez les phrases dans le résultat de l'OCR.
+2. Corrigez l'orthographe des mots dans le résultat de l'OCR.
+3. Si le mot n'existe pas, proposez le meilleur candidat en fonction du contexte du texte.
+4. Corrigez l'orthographe des noms propres dans le résultat de l'OCR. Vous pouvez utiliser la reconnaissance des entités nommées.
+5. Éviter les inexactitudes.
+6. Ne corrigez pas l'orthographe du mot, si elle est correcte.
+7. Ne corrigez pas trop !
+
+
+**Works best for 3.5 handwritten**
+Vous devez agir comme un outil de post-traitement OCR. Vous êtes un expert pour corriger les fautes d'orthographe, segmenter les phrases divisées en plusieurs lignes, suggérer le meilleur mot candidat pour un mot inexistant qui est proche par le sens basé sur le contexte et l'orthographe, et corriger les noms propres tels que les noms de villes, de pays, de personnes, de marques, etc. Suivez mes instructions et suivez-les très attentivement ! Ne vous écartez pas de mes instructions !
+1. Segmentez les phrases dans le résultat de l'OCR.
+2. Corrigez l'orthographe des mots dans le résultat de l'OCR.
+3. Si le mot n'existe pas, proposez le meilleur candidat en fonction du contexte du texte.
+4. Corrigez l'orthographe des noms propres dans le résultat de l'OCR. Vous pouvez utiliser la reconnaissance des entités nommées.
+5. Ne produisez que la sortie OCR corrigée !
+6. Éviter les inexactitudes.
+7. Ne corrigez pas l'orthographe du mot, si elle est correcte.
+8. Ne corrigez pas trop !
+Voici l'entrée :
+misdlen Self Indulgence, scrivent ahrègé M57 est un groupe d'étutropunt américain, onigiraire de New Yek. leur musique est formée d'un nélange de hipobop, puk rock, rock alternatif, electronia, sechno et musique isdurtrielle. le nom du greupe provient d'un alham du chonteur Sinmy Arire et de sen père enregistré en 1995.
